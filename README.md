@@ -9,14 +9,14 @@ I am currently enrolled in a Data Science and Machine Learning certification at 
   5. Descriptive and Inferential Statistics
   6. Experiment Design and Hypothesis Testing
   7. Specialization: Data Science and Deep Learning with AI
-    - Calculus
-    - Eigenvalues and Eigenvectors
-    - Supervised and Unsupervised Machine Learning Algorithms
-    - Neural Networks and TensorFlow
+  - Calculus
+  - Eigenvalues and Eigenvectors
+  - Supervised and Unsupervised Machine Learning Algorithms
+  - Neural Networks and TensorFlow
   8. Elective: MLOps and Data Engineering
-    - Docker
-    - Amazon Web Services
-    - Apache Spark  
+  - Docker
+  - Amazon Web Services
+  - Apache Spark    
   9. Computer Science Fundamentals
   10. Advance Data Structures and Algorithms
 
