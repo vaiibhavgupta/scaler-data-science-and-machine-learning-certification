@@ -1,7 +1,4 @@
-# scaler_certification
-The repository contains my project work in the scaler certification
-
-Data Science and Machine Learning Certification at Scaler
+# Data Science and Machine Learning Certification at Scaler
 
 I am currently enrolled in a Data Science and Machine Learning certification at Scaler. The certification will help me in building strong foundations and in enhancing my knowledge of the following topics:
 
